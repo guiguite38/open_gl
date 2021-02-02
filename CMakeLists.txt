@@ -1,4 +1,4 @@
-project(mds3d_td3)
+project(open_gl)
 
 cmake_minimum_required(VERSION 3.2.0)
 
